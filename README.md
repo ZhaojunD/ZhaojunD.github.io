@@ -1,2 +1,2 @@
-# ZhaojunDing.github.io
-The website: https://ZhaojunDing.github.io/
+# zhaojund.github.io
+The website: https://zhaojund.github.io/
